@@ -1,10 +1,10 @@
 {
-  "name": "os-common",
+  "name": "aaaaaLib",
   "version": "1.0.0",
-  "description": "common library of one source spa",
-  "author": "jensenw-pki",
+  "description": "common library",
+  "author": "fulen",
   "license": "MIT",
-  "repository": "os-common",
+  "repository": "aaaaaLib",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
@@ -25,13 +25,6 @@
     "prop-types": "^15.5.4",
     "react": "^15.0.0 || ^16.0.0",
     "react-dom": "^15.0.0 || ^16.0.0",
-    "antd": "^3.22.2",
-    "md5": "^2.2.1",
-    "moment": "^2.24.0",
-    "ag-grid-community": "^21.2.1",
-    "ag-grid-react": "^21.2.1",
-    "i18next": "^15.0.6",
-    "i18next-xhr-backend": "^2.0.1"
   },
   "devDependencies": {
     "@svgr/rollup": "^2.4.1",
@@ -43,14 +36,6 @@
     "babel-preset-react": "^6.24.1",
     "babel-preset-stage-0": "^6.24.1",
     "cross-env": "^5.1.4",
-    "eslint": "^5.0.1",
-    "eslint-config-standard": "^11.0.0",
-    "eslint-config-standard-react": "^6.0.0",
-    "eslint-plugin-import": "^2.13.0",
-    "eslint-plugin-node": "^7.0.1",
-    "eslint-plugin-promise": "^4.0.0",
-    "eslint-plugin-react": "^7.10.0",
-    "eslint-plugin-standard": "^3.1.0",
     "gh-pages": "^1.2.0",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
@@ -68,8 +53,5 @@
   ],
   "dependencies": {
     "abortcontroller-polyfill": "^1.4.0",
-    "ag-grid-community": "^21.2.1",
-    "ag-grid-react": "^21.2.1",
-    "antd": "^3.22.2"
   }
 }
